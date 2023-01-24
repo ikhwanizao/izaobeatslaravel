@@ -14,7 +14,7 @@
     <section>
         <div class="container">
             <div class="half-left">
-                <div class="homepage"><a href="{{ url('/') }}">Home</a></div>
+            <div class="homepage"><i class="fa-solid fa-xs fa-arrow-left"></i><a href="{{ url('/') }}">Home</a></div>
                 <form>
                     <div class="title">Write us</div>
                     <label for="name"></label>
@@ -30,7 +30,7 @@
 
             <div class="half-right">
                     <div class="contactinfo-title"><strong>Contact Information</strong></div>
-                    <div class="contactinfo-desc">Looking for great beats? Contact me for a great deal.</div>
+                    <div class="contactinfo-desc">Looking for beats? Contact me for a great deal.</div>
 
                     <div class="contact-infos">
                         <div class="contactinfo-withicon">
@@ -43,7 +43,7 @@
                         </div>
                         <div class="contactinfo-withicon">
                             <div class="contact-icon"><i class="fa-solid fa-phone"></i></div>
-                            <div class="contact-website"><strong>Phone: </strong>+601112503902</div>
+                            <div class="contact-phone"><strong>Phone: </strong>+601112503902</div>
                         </div>
                     </div>
             </div>

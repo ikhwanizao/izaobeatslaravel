@@ -162,7 +162,7 @@ button:hover {
     color: #666666;
 }
 
-.contact-email, .contact-instagram, .contact-website{
+.contact-email, .contact-instagram, .contact-phone{
     font-family: "Poppins", Arial, sans-serif;
     font-size: 1rem;
     padding-left: 1rem;
@@ -197,6 +197,7 @@ strong{
 }
 
 .homepage a{
+    margin-left: 0.5rem;
     color: white;
     transition: all 0.15s ease-in-out;
 }
@@ -204,4 +205,8 @@ strong{
 .homepage a:hover{
     text-decoration:underline;
     text-decoration-color: #810CA8;
+}
+
+.fa-arrow-left{
+    color: white;
 }

@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+form input, form label, form textarea {
+    display: block;
+    
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: #810CA8;
+}
+
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    
+}
+
+/* .lg-container{
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+} */
+
+.container{
+    max-width: 800px;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    /* height: 50vh;
+    display: flex;
+    margin: auto;
+    
+    align-items: center;
+    justify-content: center; */
+}
+
+.half-left{
+    width: 400px;
+    background-color: #272A32;
+    border-top-left-radius: 0.625rem;
+    border-bottom-left-radius: 0.625rem;
+    padding: 3rem;
+}
+
+.half-right{
+    color: white;
+    width: 400px;
+    background-color: #1D1E22;
+    border-top-right-radius: 0.625rem;
+    border-bottom-right-radius: 0.625rem;
+    padding: 3rem;
+}
+
+.title{
+    font-size: 1.75rem;
+    color: white;
+    margin-bottom: 1.5rem !important;
+}
+
+input{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    background-color: #272A32;
+    font-family: "Poppins", sans-serif;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+input:focus {
+    color: white;
+}
+
+input:not(:active):not(:focus) {
+    color: white; /* this will set the color property back to its original value */
+}
+
+.no-outline:focus {
+    outline: none;
+}
+
+textarea{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    background-color: #272A32;
+    font-family: "Poppins", sans-serif;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    resize: none;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+textarea:focus {
+    color: white;
+}
+
+textarea:not(:active):not(:focus) {
+    color: white; /* this will set the color property back to its original value */
+}
+
+button{
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    color: white;
+    background: #810CA8;
+    border-color: #810CA8;
+    padding: 0.75rem 1rem;
+    border-style: none;
+    border-radius: 0.125rem;
+    font-weight: 400;
+    box-shadow: 0px 10px 20px -6px rgb(0 0 0 / 12%);
+    position: relative;
+    transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+    /* background-image: linear-gradient(rgb(0 0 0/10%) 0 0); */
+    background: #810ca8d3;
+  }

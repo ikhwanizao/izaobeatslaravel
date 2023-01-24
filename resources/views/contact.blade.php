@@ -28,24 +28,23 @@
             </div>
 
             <div class="half-right">
-                <div class="contactinfo-title">Contact Info</div>
-                <div class="contactinfo-desc">Lorem ipsum weifnwef wefwef qef eefefef efef wdwdwd asaa wdwddwwqefwefwd
-                    wddwd wdwwd</div>
+                    <div class="contactinfo-title"><strong>Contact Information</strong></div>
+                    <div class="contactinfo-desc">Looking for great beats? Contact me for a great deal.</div>
 
-                <div class="contactinfo-withicon">
-                    <div class="contact-icon"></div>
-                    <div class="contact-email"><strong>Email: </strong>ikhwanm32@gmail.com</div>
-                </div>
-
-                <div class="contactinfo-withicon">
-                    <div class="contact-icon"></div>
-                    <div class="contact-instagram"><strong>Instagram: </strong>@izao.00</div>
-                </div>
-
-                <div class="contactinfo-withicon">
-                    <div class="contact-icon"></div>
-                    <div class="contact-website"><strong>Website: </strong>izaobeats.com</div>
-                </div>
+                    <div class="contact-infos">
+                        <div class="contactinfo-withicon">
+                            <div class="contact-icon"><i class="fa-regular fa-envelope"></i></div>
+                            <div class="contact-email"><strong>Email: </strong>ikhwanm32@gmail.com</div>
+                        </div>
+                        <div class="contactinfo-withicon">
+                            <div class="contact-icon"><i class="fa-brands fa-instagram"></i></div>
+                            <div class="contact-instagram"><strong>Instagram: </strong>@izao.00</div>
+                        </div>
+                        <div class="contactinfo-withicon">
+                            <div class="contact-icon"><i class="fa-brands fa-whatsapp"></i></div>
+                            <div class="contact-website"><strong>Phone: </strong>+601112503902</div>
+                        </div>
+                    </div>
             </div>
         </div>
     </section>

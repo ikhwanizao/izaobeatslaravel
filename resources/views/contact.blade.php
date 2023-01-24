@@ -23,7 +23,7 @@
                 <label for="name"></label>
                 <input type="text" id="name" placeholder="Name" class="no-outline" autocomplete="off"/>
                 <label for="email"></label>
-                <input type="text" id="email" placeholder="Email" class="no-outline" autocomplete="off"/>
+                <input type="text" id="email" placeholder="Your Email Address" class="no-outline" autocomplete="off"/>
                 <label for="subject"></label>
                 <input type="email" id="subject" placeholder="Subject" class="no-outline" autocomplete="off"/>
                 <textarea id="message" name="message" rows="5" cols="33" placeholder="Message" class="no-outline"></textarea>
@@ -42,7 +42,7 @@
                     </div>
                     <div class="contactinfo-withicon">
                         <div class="contact-icon"><i class="fa-brands fa-lg fa-instagram"></i></div>
-                        <div class="contact-instagram"><strong>Instagram: </strong>@izao.00</div>
+                        <div class="contact-instagram"><strong>Instagram: </strong><a target="_blank" href="https://www.instagram.com/izao.00/">@@izao.00</a></div>
                     </div>
                     <div class="contactinfo-withicon">
                         <div class="contact-icon"><i class="fa-solid fa-phone"></i></div>

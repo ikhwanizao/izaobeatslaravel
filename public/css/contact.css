@@ -180,6 +180,10 @@ strong {
     color: white;
 }
 
+.contact-instagram > a {
+    color: #810ca8;
+}
+
 .contact-infos {
     margin-top: 3rem;
 }

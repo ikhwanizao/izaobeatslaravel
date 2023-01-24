@@ -14,6 +14,7 @@
     <section>
         <div class="container">
             <div class="half-left">
+                <div class="homepage"><a href="{{ url('/') }}">Home</a></div>
                 <form>
                     <div class="title">Write us</div>
                     <label for="name"></label>

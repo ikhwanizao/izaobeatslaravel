@@ -195,3 +195,13 @@ strong{
     align-items: center;
     border-radius: 50%;
 }
+
+.homepage a{
+    color: white;
+    transition: all 0.15s ease-in-out;
+}
+
+.homepage a:hover{
+    text-decoration:underline;
+    text-decoration-color: #810CA8;
+}

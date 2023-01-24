@@ -38,11 +38,11 @@
                             <div class="contact-email"><strong>Email: </strong>ikhwanm32@gmail.com</div>
                         </div>
                         <div class="contactinfo-withicon">
-                            <div class="contact-icon"><i class="fa-brands fa-instagram"></i></div>
+                            <div class="contact-icon"><i class="fa-brands fa-lg fa-instagram"></i></div>
                             <div class="contact-instagram"><strong>Instagram: </strong>@izao.00</div>
                         </div>
                         <div class="contactinfo-withicon">
-                            <div class="contact-icon"><i class="fa-brands fa-whatsapp"></i></div>
+                            <div class="contact-icon"><i class="fa-solid fa-phone"></i></div>
                             <div class="contact-website"><strong>Phone: </strong>+601112503902</div>
                         </div>
                     </div>
